@@ -1,0 +1,1 @@
+This example demonstrates a common off-by-one error in COBOL that can be tricky to spot. The error lies in how the table index is used, leading to incorrect data population in the table. The solution involves adjusting the loop conditions and index usage to correctly populate the table elements.
